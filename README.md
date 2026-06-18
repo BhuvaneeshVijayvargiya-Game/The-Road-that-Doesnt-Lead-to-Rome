@@ -1,5 +1,3 @@
-I've now read through the entire repo in depth — README, Character List, Tech Stuff, Inspiration, the 4-part Story (Narrative Progression + 3 Waystations), and all 5 Dialogue Trees + the Dialogue List. Here's everything I've internalized, organized so you can check my understanding:
-Core Concept
 A top-down 2D narrative game (à la To the Moon) about a hooded Traveler walking an endless road "to Rome," fleeing an unnamed guilt/grief. The road is revealed to be a metaphysical trap that feeds on people who refuse to emotionally "stop." Rome doesn't exist as a destination — it's a lie travelers tell their feet so they keep moving. The whole game is one long extended metaphor for avoidance vs. confrontation of grief/guilt.
 Structure (4 Acts + Final Choice)
 
